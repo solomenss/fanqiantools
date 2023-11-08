@@ -17,29 +17,17 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray 、vpn代理、vpn
 | Trojan客户端       | [Trojan官方版Windows客户端](https://github.com/trojan-gfw/trojan/releases)  <br/> [Clash](https://github.com/Fndroid/clash_for_windows_pkg/releases)  <br/>  [Trojan-Qt5](https://github.com/McDull-GitHub/trojan-qt5/releases)  |  [Trojan官方版Mac客户端](https://github.com/trojan-gfw/trojan/releases) <br/> [ClashX](https://github.com/yichengchen/clashX/releases) <br/>  [Trojan-Qt5](https://github.com/McDull-GitHub/trojan-qt5/releases) |    [igniter](https://github.com/trojan-gfw/igniter/releases)  <br/>   [Clash](https://github.com/BROBIRD/ClashForAndroid/releases)  |  [Shadowrocket](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)  <br/> QuantumultX   |  QuantumultX 需要美区账号下载 |
 |   Trojan-Go客户端   |   [winXray](https://github.com/TheMRLL/winxray/releases)   <br/>  [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)     |   [Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)         |        [Igniter-Go(自己编译)](https://codeload.github.com/p4gefau1t/trojan-go-android/zip/v0.1.0-pre-alpha20)         | [Shadowrocket](https://github.com/githubvpn007/v2rayNvpn/releases/tag/Shadowrocket_2.1.12)
 
-
-**更多软件整理：**  
-[v2ray客户端全集](https://xiaoheicn.top/v2ray客户端全集/)  
-[shadowsocksr客户端全集](https://xiaoheicn.top/shadowsocks-ss客户端全集/)  
-[ssr客户端全集](https://xiaoheicn.top/shadowsocksr-ssr客户端全集/)  
-[trojan客户端全集](https://xiaoheicn.top/trojan客户端下载/)  
-[trojan-go客户端全集](https://xiaoheicn.top/trojan-go客户端下载/)  
-[wireguard客户端全集](https://xiaoheicn.top/wireguard客户端/)  
-[xray客户端全集](https://xiaoheicn.top/xray客户端全集/)  
-
-
-
-
-
-
 <br/>
 <br/>
 
-## Install
-
-    go get -u github.com/skip2/go-qrcode/...
-
-A command-line tool `qrcode` will be built into `$GOPATH/bin/`.
+# 分享一家牛X的机场：九联★★★★★
+## 便宜又非常稳定
+<br/>
+九联备用1  九联备用2
+https://www.ninelinks.net
+<br/>
+<br/>
+说句心里话，推荐九联不光是因为确实好用，还有它们的返米非常高，口罩期间，被公司裁员，作为一个中年猿，可以说生存压力很大，幸亏九联，每月稳定返米补贴。感谢！
 
 ## Usage
 
