@@ -30,8 +30,8 @@ ShadowsocksR、 Shadowsocks、ClashR、vmess 、Clash、V2ray 、vpn代理、vpn
 
 
 
-[九联备用1](https://www.ninelinks.net)    [九联备用2](https://www.ninelinks.net) 
+[绿灯备用1](https://www.lvdeng.info)    [绿灯备用2](https://www.lvdeng.info) 
 <br/>
 <br/>
-说句心里话，推荐九联不光是因为确实好用，还有它们的返米非常高，口罩期间，被公司裁员，作为一个中年猿，可以说生存压力很大，幸亏九联，每月稳定返米补贴。感谢！
+说句心里话，推荐绿灯不光是因为确实好用，还有它们的返米非常高，口罩期间，被公司裁员，作为一个中年猿，可以说生存压力很大，幸亏绿灯，每月稳定返米补贴。感谢！
 
